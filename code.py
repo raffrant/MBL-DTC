@@ -1,4 +1,3 @@
-from scipy.fft import fft 					#import necessary packages
 from quspin.operators import hamiltonian, exp_op
 from quspin.basis import spin_basis_general
 import matplotlib.pyplot as plt
